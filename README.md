@@ -1,2 +1,2 @@
-# data_science
-different data science assignments
+# Data Science
+This repository contains different data science assignments/projects
