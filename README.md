@@ -1,2 +1,2 @@
 # Data Science
-This repository contains different data science assignments/projects
+This repository contains my solutions to various data science assignments and projects.
