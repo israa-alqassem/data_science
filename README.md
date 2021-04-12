@@ -8,9 +8,11 @@ This repository contains various data science assignments and projects which I e
 
 ### Issue viewing ipynb in github
 
-Sometimes github fails to render the jupyter notebooks .ipynb files.
+Sometimes github fails to render the jupyter notebooks, .ipynb files.
 If you encounter such an issue use nbviewer online to view the .ipynb file, you don't need to install anything.
 
 * Open https://nbviewer.jupyter.org/
 * Copy and paste the link to the notebook you want to view
 
+
+This workaround solution was suggested in this <a target="_blank" href="https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11">post</a>.<br/>
